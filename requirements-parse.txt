@@ -1,0 +1,2 @@
+# Faqat PDF parse qilish uchun (ixtiyoriy)
+docling-parse>=2.0
